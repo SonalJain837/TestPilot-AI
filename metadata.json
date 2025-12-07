@@ -1,0 +1,5 @@
+{
+  "name": "TestPilot AI",
+  "description": "Automated AI-powered website testing platform that performs functional, UI, and workflow tests automatically.",
+  "requestFramePermissions": []
+}
